@@ -311,6 +311,7 @@ endif
 KBUILD_MODULES :=
 KBUILD_BUILTIN := 1
 
+
 # If we have only "make modules", don't compile built-in objects.
 # When we're building modules with modversions, we need to consider
 # the built-in objects during the descend as well, in order to
